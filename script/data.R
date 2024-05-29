@@ -1,0 +1,5 @@
+library(tidyverse)
+library(openxlsx)
+library(readxl)
+library(skimr)
+data <- read.csv("data/anorexia.csv")
